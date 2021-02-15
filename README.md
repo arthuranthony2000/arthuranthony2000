@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arthuranthony2000" alt="arthuranthony2000" /></a> </p>
 
+- 🔭 I love to develop in **Java** 
+
 - 👨‍💻 I’m currently learning **Kotlin**
 
 - 💬 Ask me about **Android Studio, Spring Boot and JavaFX/Java Swing**
