@@ -9,7 +9,7 @@
 
 - 👨‍💻 I’m currently learning **Kotlin**
 
-- 💬 Ask me about **Android Studio, Spring Boot and JavaFX/Java Swing**
+- 💬 Ask me about **Android Studio and Spring Boot**
 
 - 📫 How to reach me **arthur@objetorelacional.com.br**
 
