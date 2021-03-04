@@ -7,7 +7,7 @@
 
 - 🔭 I love to develop in **Java** 
 
-- 👨‍💻 I’m currently learning **Kotlin**
+- 👨‍💻 I’m currently learning **Javascript/Typescript**
 
 - 💬 Ask me about **Android Studio and Spring Boot**
 
