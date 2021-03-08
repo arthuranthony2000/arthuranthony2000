@@ -1,5 +1,5 @@
 <h1 align="center">What's up 👋, I'm Arthur Anthony</h1>
-<h3 align="center">A developer who loves everything about information technology</h3>
+<h3 align="center">An enthusiastic web developer from Brazil </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthuranthony2000&label=Profile%20views&color=0e75b6&style=flat" alt="arthuranthony2000" /> </p>
 
