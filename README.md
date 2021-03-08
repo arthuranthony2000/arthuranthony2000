@@ -9,7 +9,7 @@
 
 - 👨‍💻 I’m currently learning **Javascript/Typescript**
 
-- 💬 Ask me about **Android Studio and Spring Boot**
+- 💬 Ask me about **React, Ionic and Spring Boot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
