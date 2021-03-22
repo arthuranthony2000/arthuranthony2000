@@ -1,15 +1,12 @@
 <h1 align="center">What's up 👋, I'm Arthur Anthony</h1>
-<h3 align="center">An enthusiastic web developer from Brazil </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthuranthony2000&label=Profile%20views&color=0e75b6&style=flat" alt="arthuranthony2000" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arthuranthony2000" alt="arthuranthony2000" /></a> </p>
 
-- 🔭 I love to develop in **Java** 
-
 - 👨‍💻 I’m currently learning **Javascript/Typescript**
 
-- 💬 Ask me about **React, Ionic and Spring Boot**
+- 💬 Ask me about **React, Ionic and Node**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
