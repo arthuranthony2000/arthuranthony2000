@@ -1,4 +1,4 @@
-<h1 align="center">What's up 👋, I'm Arthur Anthony</h1>
+<h1 align="left">What's up 👋, I'm Arthur Anthony</h1>
 
 <h3 align="left">Welcome to my repository</h3>
 
