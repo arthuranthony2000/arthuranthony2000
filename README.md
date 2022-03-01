@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Spring Boot and Android Studio with Java**
 
-- 🌱 I’m currently learning **React/Next JS and Node JS**
+- 🌱 I’m currently learning **React/Next JS**
 
 - 💬 Ask me about **Java and Javascript/Typescript**
 
