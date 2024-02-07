@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my repository</h1>
-<h3 align="center">I am an information technology technician looking to improve</h3>
+<h3 align="center">I am a software engineer specialist looking to improve</h3>
 
 - 🔭 I’m currently working on **Spring Boot and Android Studio with Java**
 
