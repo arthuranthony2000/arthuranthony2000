@@ -1,11 +1,9 @@
 <h1 align="center">Welcome to my repository</h1>
 <h3 align="center">I am a software engineer specialist looking to improve</h3>
 
-- 🔭 I’m currently working on **Spring Boot and Yii Framework**
+- 🔭 I’m currently working on **Spring Boot, Yii Framework and React JS**
 
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **Java, PHP and JavascriptTypescript**
+- 💬 Ask me about **Java, PHP and Javascript/Typescript**
 
 - ⚡ Fun fact **I love to design and implement software**
 
