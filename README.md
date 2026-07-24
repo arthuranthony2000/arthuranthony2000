@@ -60,15 +60,15 @@ Researcher at the <b>Federal University of Rio Grande do Norte (UFRN)</b>, worki
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 
-<a href="https://orcid.org/">
+<a href="https://orcid.org/0009-0006-4519-2677">
 <img align="center" src="https://cdn.simpleicons.org/orcid" height="30" width="40" />
 </a>
 
-<a href="https://scholar.google.com/">
+<a href="https://scholar.google.com/citations?user=3lZLBeoAAAAJ&hl=pt-BR">
 <img align="center" src="https://cdn.simpleicons.org/googlescholar" height="30" width="40" />
 </a>
 
-<a href="https://www.researchgate.net/">
+<a href="https://www.researchgate.net/profile/Arthur-Da-Cunha-Romao-E-Silva">
 <img align="center" src="https://cdn.simpleicons.org/researchgate" height="30" width="40" />
 </a>
 </p>
