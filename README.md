@@ -1,16 +1,152 @@
-<h1 align="center">Welcome to my repository</h1>
-<h3 align="center">I am a software engineer specialist looking to improve</h3>
+<h1 align="center">Hi 👋, I'm Arthur Anthony da Cunha Romão e Silva</h1>
 
-- 🔭 I’m currently working on **Spring Boot, Android Studio and React JS**
+<h3 align="center">
+Ph.D. Candidate in Computer Science | Computational Geophysics | Inverse Problems | Evolutionary Computation | Multi-Objective Optimization
+</h3>
 
-- 💬 Ask me about **Java and Javascript/Typescript**
-
-- ⚡ Fun fact **I love to design and implement software**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arthur-anthony-a94b3b206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arthur-anthony-a94b3b206" height="30" width="40" /></a>
+<p align="center">
+Researcher at the <b>Federal University of Rio Grande do Norte (UFRN)</b>, working on computational geophysics, inverse problems, scientific computing, and artificial intelligence applied to optimization.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+## 🔬 Research Interests
+
+- Computational Geophysics
+- Geophysical Inverse Problems
+- Multi-Objective Optimization
+- Evolutionary Computation
+- Scientific Computing
+- Artificial Intelligence
+- Parallel Computing (MPI/OpenMP)
+- High Performance Computing (HPC)
+
+---
+
+## 🚀 Current Research
+
+- Development of the **GRAMA Framework** for gravity inversion
+- Multi-objective optimization algorithms
+- Basement relief inversion from gravity data
+- Scientific software for computational geophysics
+- Parallel evolutionary algorithms
+- Numerical optimization
+
+---
+
+## 📚 Current Projects
+
+- GRAMA — Gravity Inversion Multi-Objective Framework
+- Multi-objective algorithms for gravity inversion
+- Computational geophysics software
+- Parallel optimization methods
+- Scientific computing in C++, C#, MATLAB and Python
+
+---
+
+## 📄 Selected Publications
+
+- IEEE Congress on Evolutionary Computation (CEC 2026)
+- Brazilian Symposium on Operations Research (SBPO 2024)
+- Computational Geophysics
+- Seismic Tomography
+- Gravity Inversion
+- Evolutionary Optimization
+
+---
+
+## 🌐 Connect with me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/arthur-anthony-da-cunha-romao-e-silva-a94b3b206">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+
+<a href="https://orcid.org/">
+<img align="center" src="https://cdn.simpleicons.org/orcid" height="30" width="40" />
+</a>
+
+<a href="https://scholar.google.com/">
+<img align="center" src="https://cdn.simpleicons.org/googlescholar" height="30" width="40" />
+</a>
+
+<a href="https://www.researchgate.net/">
+<img align="center" src="https://cdn.simpleicons.org/researchgate" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 🛠 Languages & Tools
+
+<p align="left">
+
+<a href="https://isocpp.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.python.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.mathworks.com/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/>
+</a>
+
+<a href="https://www.gnu.org/software/octave/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.linux.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.docker.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.postgresql.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+</a>
+
+</p>
+
+---
+
+## 📊 Research Areas
+
+```text
+Computational Geophysics
+█████████████████████
+
+Scientific Computing
+████████████████████
+
+Evolutionary Computation
+███████████████████
+
+Multi-Objective Optimization
+███████████████████
+
+Artificial Intelligence
+██████████████████
+
+High Performance Computing
+████████████████
+```
+
+---
+
+> *"Developing optimization algorithms and scientific software to solve challenging geophysical inverse problems."*
