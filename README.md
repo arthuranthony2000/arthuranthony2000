@@ -56,7 +56,7 @@ Researcher at the <b>Federal University of Rio Grande do Norte (UFRN)</b>, worki
 ## 🌐 Connect with me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/arthur-anthony-da-cunha-romao-e-silva-a94b3b206">
+<a href="https://www.linkedin.com/in/arthur-anthony-da-cunha-rom%C3%A3o-e-silva-a94b3b206/?skipRedirect=true">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 
