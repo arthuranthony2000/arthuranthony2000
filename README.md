@@ -25,7 +25,6 @@ Researcher at the <b>Federal University of Rio Grande do Norte (UFRN)</b>, worki
 
 ## 🚀 Current Research
 
-- Development of the **GRAMA Framework** for gravity inversion
 - Multi-objective optimization algorithms
 - Basement relief inversion from gravity data
 - Scientific software for computational geophysics
@@ -36,7 +35,6 @@ Researcher at the <b>Federal University of Rio Grande do Norte (UFRN)</b>, worki
 
 ## 📚 Current Projects
 
-- GRAMA — Gravity Inversion Multi-Objective Framework
 - Multi-objective algorithms for gravity inversion
 - Computational geophysics software
 - Parallel optimization methods
