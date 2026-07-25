@@ -79,44 +79,48 @@ Researcher at the <b>Federal University of Rio Grande do Norte (UFRN)</b>, worki
 
 <p align="left">
 
-<a href="https://isocpp.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 </a>
 
-<a href="https://dotnet.microsoft.com/en-us/languages/csharp">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
 </a>
 
-<a href="https://www.python.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 </a>
 
-<a href="https://www.mathworks.com/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </a>
 
-<a href="https://www.gnu.org/software/octave/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" width="40" height="40"/>
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
 </a>
 
-<a href="https://git-scm.com/">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+<a href="https://www.gnu.org/software/octave/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" alt="GNU Octave" width="40" height="40"/>
 </a>
 
-<a href="https://www.linux.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </a>
 
-<a href="https://www.docker.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </a>
 
-<a href="https://www.mysql.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
 </a>
 
-<a href="https://www.postgresql.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 </a>
 
 </p>
